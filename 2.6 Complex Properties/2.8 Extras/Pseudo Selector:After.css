@@ -1,0 +1,4 @@
+div::after {
+    content: "Frontend Simplified"
+    color rgb(198, 17, 17)
+}
